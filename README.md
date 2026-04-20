@@ -2,6 +2,9 @@
 
 A visual dashboard for analyzing Burp Suite Intruder CSV exports — detect Rate Limiting behavior, WAF blocks, and response anomalies at a glance.
 
+<img width="1687" height="1216" alt="image" src="https://github.com/user-attachments/assets/130e381e-f665-4f18-ab95-c01ebda9d5a1" />
+
+
 ## Features
 
 - **Automatic CSV parsing** — supports Burp Suite Intruder tab-separated exports
