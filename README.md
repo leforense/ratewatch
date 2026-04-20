@@ -52,13 +52,21 @@ A visual dashboard for analyzing Burp Suite Intruder CSV exports — detect Rate
 2. After the attack finishes, right-click the results table → **Save results** → choose **CSV**.
 3. Upload the `.csv` file to the dashboard.
 
-## Building for Production
 
-```bash
-npm run build
-```
+## How to use:
 
-The output will be in the `dist/` folder.
+1. Export the results table from Burp Intruder: Right-click the results and save them as a CSV, following this example:
+
+<img width="1318" height="922" alt="ratewatch" src="https://github.com/user-attachments/assets/8aabc337-47b0-4238-b06a-eb8d9965e12f" />
+
+2. Import the CSV file into the dashboard: Once the attack is complete, upload your file to visualize the data:
+<img width="1722" height="1334" alt="mainscreen" src="https://github.com/user-attachments/assets/85765016-afb3-4678-b535-ce9489916c54" />
+
+3. Rename your analysis (Optional): If you need to change the project name, just click here:
+<img width="328" height="119" alt="image" src="https://github.com/user-attachments/assets/9d8340c9-5704-4282-b692-382fa1509244" />
+
+4. Download the report: Click "Exportar Imagem" to save a snapshot of your dashboard:
+<img width="203" height="76" alt="image" src="https://github.com/user-attachments/assets/11049f33-1f04-4839-accf-8f42ae1414ea" />
 
 ## License
 
