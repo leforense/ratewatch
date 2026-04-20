@@ -1,5 +1,5 @@
 {
-  "name": "Burp Intruder Analyst",
+  "name": "RateWatch - Burp Intruder Analysis",
   "description": "A security analysis dashboard for parsing Burp Suite Intruder CSV exports to visualize Rate Limiting, WAF behavior, and throttling mechanisms.",
   "requestFramePermissions": []
 }
