@@ -1,4 +1,4 @@
-# BURPINTRUDER DATA ANALYST
+# RATEWATCH - Burp® Intruder Rate Limiting Analysis
 
 A visual dashboard for analyzing Burp Suite Intruder CSV exports — detect Rate Limiting behavior, WAF blocks, and response anomalies at a glance.
 
